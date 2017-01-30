@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.scss",
+		"_important.scss",
+		"_headings.scss",
+		"_colors.scss"
+	],
+	"names": [],
+	"mappings": "ACAA,AACE,QADM,CACN,EAAE,AAAC,CACD,KAAK,CAAE,GACT,CAAE,AAHJ,AAIE,QAJM,CAIN,CAAC,AAAC,CACA,KAAK,CAAE,SAAS,CACjB,ACJH,AAAA,EAAE,AAAC,CACD,KAAK,CCHQ,MAAM,CDIpB,AAED,AAAA,EAAE,AAAC,CACD,KAAK,CCPQ,MAAM,CDQpB"
+}
